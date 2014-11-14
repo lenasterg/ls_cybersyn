@@ -1,0 +1,448 @@
+# Translation of Development in Greek
+# This file is distributed under the same license as the Development package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Development\n"
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2014-08-11 16:36+0200\n"
+"PO-Revision-Date: 2014-08-11 17:25+0200\n"
+"Last-Translator: Lena Stergatu <stergatu@cti.gr>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-KeywordsList: _e;_n;_nx:1,2;_nx;_n:1,2;_ex;_x:2c,1;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\blogsRun\\wp-content\\plugins"
+"\\ls_cybersyn\n"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-options.php:42
+msgid "RSS pull mode"
+msgstr "Λήψη περιεχομένου επιλεγμένων πηγών"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-options.php:43
+msgid "Pseudo cron interval"
+msgstr ""
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-options.php:44
+msgid "Feed duplication control"
+msgstr "Έλεγχος για διπλοδηλώση πηγής"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-options.php:45
+msgid "Link to source"
+msgstr "Πηγή"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-options.php:50
+msgid "Updated"
+msgstr "Ενημερώθηκε"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-options.php:58
+msgid "No Option Updated"
+msgstr "Δεν έγιναν αλλαγές στις ρυθμίσεις"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-options.php:89
+msgid "General Settings"
+msgstr "Γενικές ρυθμίσεις"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-syndicator.php:49
+msgid "RSS/Atom Syndicator - Default Settings"
+msgstr "Άντληση άρθρων από RSS/Atom - Βασικές Ρυθμίσεις"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn-syndicator.php:51
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1741
+msgid "RSS/Atom Syndicator"
+msgstr "Άντληση άρθρων από εξωτερικές πηγές (RSS/Atom)"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:524
+msgid "Syndicating"
+msgstr "Άντληση περιεχομένου από"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:538
+msgid "post was added"
+msgstr "άρθρο προστέθηκε"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:540
+msgid "posts were added"
+msgstr "άρθρα προστέθηκαν"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:546
+msgid "Go to pending posts"
+msgstr "Μετάβαση στον έλεγχο των άρθρων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:568
+msgid "Feed Title"
+msgstr "Όνομα πηγής RSS"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:571
+msgid "Generator"
+msgstr "Δημιουργός"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:574
+msgid "Title"
+msgstr "Τίτλος"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:575
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:613
+msgid "This feed is already in use"
+msgstr "Αυτή η πηγή χρησιμοποιείται ήδη"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:624
+msgid "Feed Info and Preview"
+msgstr "Πληροφορίες και Προεπισκόπηση"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:635
+#, fuzzy
+msgid "No feed found at"
+msgstr "RSS Feed για"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:795
+msgid "Deleting. Please wait..."
+msgstr "Διαγραφή άρθρων. Παρακαλούμε περιμένετε…"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:830
+msgid "Done"
+msgstr "Έτοιμο"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1005
+#, fuzzy
+msgid "Error"
+msgstr "ΣΦΑΛΜΑ:"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1107
+msgid "Syndication settings for"
+msgstr "Ρυθμίσεις άντλησης περιεχομένου για "
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1109
+msgid "Default syndication settings"
+msgstr "Βασικές ρυθμίσεις άντλησης περιεχομένου"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1117
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1391
+msgid "Feed title"
+msgstr "Όνομα πηγής RSS"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1123
+msgid "Feed URL"
+msgstr "Feed URL's:"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1135
+msgid "Syndicate this feed to the following categories"
+msgstr "Αντιστοίχιση άρθρων πηγής στις εξής κατηγορίες"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1137
+msgid "Syndicate new feeds to the following categories"
+msgstr "Αντιστοίχιση νέων feeds στις ακόλουθες κατηγορίες"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1168
+msgid "Attribute all posts to the following user"
+msgstr "Μέλος που θα εμφανίζεται ως συντάκτης"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1182
+msgid "Undefined categories"
+msgstr "Μη υπάρχουσες κατηγορίες"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1187
+msgid "Use RSS/Atom default settings"
+msgstr "Χρήση των βασικών ρυθμίσεων λήψης περιεχομένου μέσω RSS/Atom"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1191
+msgid "Post to default WordPress category"
+msgstr "Ανάρτηση στην προκαθορισμένη κατηγορία άρθρων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1194
+msgid "Create new categories defined in syndicating post"
+msgstr ""
+"Δημιουργία νέων κατηγοριών όπως αυτές ορίζονται στα άρθρα που αντλούνται"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1197
+msgid ""
+"Do not syndicate post that doesn't match at least one category defined above"
+msgstr ""
+"Να μην αντλούνται άρθρα που δεν αντιστοιχούν σε τουλάχιστον μια από τις "
+"παραπάνω κατηγορίες"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1203
+msgid "Create tags from category names"
+msgstr "Δημιουργία ετικετών από ονόματα κατηγορίων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1210
+msgid "Post tags (separate with commas)"
+msgstr "Ετικέτες άρθρων (χωρίστε πολλαπλές ετικέτες με κόμμα)"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1217
+msgid "Check for duplicate posts by"
+msgstr "Έλεγχος για διπλοαναρτημένα άρθρα βάσει"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1220
+msgid "GUID and title"
+msgstr "GUID και τίτλος"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1221
+msgid "GUID only"
+msgstr "GUID μόνο"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1222
+msgid "Title only"
+msgstr "Τίτλος μόνο"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1241
+msgid "Maximum number of posts to be syndicated from each feed at once"
+msgstr "Μέγιστο πλήθος άρθρων που θα αντλούνται κάθε φορά"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1243
+msgid ""
+"use low values to decrease the syndication time and improve SEO of your blog."
+msgstr "ορίστε μικρή τιμή για να ελλατώσετε τον χρόνο άντλησης."
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1248
+msgid "Posts status"
+msgstr "Κατάσταση άρθρου"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1259
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1263
+msgid "Allow comments on syndicated posts"
+msgstr "Να επιτρέπεται σχολιασμός στα άρθρα που λαμβάνονται"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1266
+msgid "Disallow comments on syndicated posts"
+msgstr "Δεν επιτρέπεται σχολιασμός στα άρθρα που λαμβάνονται"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1273
+msgid "Media attachments"
+msgstr "Αρχεία πολυμέσων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1276
+msgid "Do not insert attachments"
+msgstr "Να μην εισάγονται τα πολυμέσα"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1277
+msgid "Insert attachments at the top of the post"
+msgstr "Εισαγωγή πολυμέσων στην αρχή του άρθρου"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1278
+msgid "Insert attachments at the bottom of the post"
+msgstr "Εισαγωγή πολυμέσων στο τέλος του άρθρου"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1280
+msgid ""
+"if enabled CyberSyn syndicator will insert media attachments (if available) "
+"into the aggregating post. The following types of attachments are supported: "
+"<strong>&lt;media:content&gt;</strong>, <strong>&lt;media:thumbnail&gt;</"
+"strong> and <strong>&lt;enclosure&gt;</strong> (type \"image\" only) All the "
+"aggregated images will contain <strong>class=\"media_thumbnail\"</strong> in "
+"the <strong>&lt;img&gt;</strong> tag"
+msgstr ""
+"να εισάγονται τα πολυμέσα (αν υπάρχουν) στο άρθρο. Υποστηρίζονται οι "
+"παρακάτω τύποι:  <strong>&lt;media:content&gt;</strong>,  <strong>&lt;media:"
+"thumbnail&gt;</strong> και <strong>&lt;enclosure&gt;</strong>  (type \"image"
+"\" μόνο). Όλα οι εικόνες θα περιέχουν <strong>class=\"media_thumbnail\"</"
+"strong> στην <strong>&lt;img&gt;</strong> ετικέτα."
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1284
+msgid "Convert character encoding"
+msgstr "Μετατροπή κωδικοποίησης χαρακτήρων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1287
+msgid ""
+"enables character encoding conversion. This option might be useful when "
+"parsing XML/RSS feeds in national charsets different than UTF-8."
+msgstr ""
+"Ενεργοποιεί την μετατροπή κωδικοποίησης χαρακτήρων. Είναι χρήσιμη για τις "
+"περιπτώσεις XML/RSS feed που είναι σε διαφορετική από UTF-8 κωδικοποίηση."
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1293
+msgid "Store images locally"
+msgstr "Αποθήκευση των εικόνων τοπικά"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1296
+msgid ""
+"if enabled, all images from the syndicating feeds will be copied into the "
+"default uploads folder of this blog. Make sure that your /wp-content/uploads "
+"folder is writable."
+msgstr ""
+"όλες οι εικόνες από την πηγή θα αντιγραφούν στα πολυμέσα του ιστολογίου σας."
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1302
+#, fuzzy
+msgid "Post date adjustment range"
+msgstr "Ημερομηνία:"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1306
+msgid ""
+"- here you can set the syndication date adjustment range in minutes. This "
+"range will be used to randomly adjust the publication date for every "
+"aggregated post. For example, if you set\n"
+"                                the adjustment range as [0..60], the post "
+"dates will be increased by a random value between 0 and 60 minutes."
+msgstr ""
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1311
+msgid "Post footer"
+msgstr "Υποσέλιδο άρθρου"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1314
+msgid ""
+" - the HTML code wich will be inserted into the bottom of each syndicated "
+"post."
+msgstr "- HTML κώδικας που θέλετε να εμφανίζεται στο τέλος κάθε άρθρου. "
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1320
+msgid "Insert post footer into excerpts"
+msgstr "Εισαγωγή υποσέλιδου άρθρου στις περιλήψεις"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1322
+msgid ""
+"enable this option if you want to insert the post footer into the post "
+"excerpt."
+msgstr ""
+"ενεργοποιήστε το αν θέλετε να εμφανίζεται το υποσέλιδο άρθρου και στην "
+"περίληψη του."
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1328
+msgid "Embed videos"
+msgstr "Ενσωμάτωση videos"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1331
+msgid ""
+"the embeddable videos will be automatically extracted and inserted into the "
+"posts. Feed sources supported: YouTube only."
+msgstr ""
+"τα ενσωματωμένα videos θα εισαχθούν στα άρθρα. Υποστηρίζονται προς το παρόν "
+"μόνο YouTube videos."
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1342
+msgid "Update Feed Settings"
+msgstr "Αποθήκευση ρυθμίσεων για την πηγή RSS/Atom"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1343
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1347
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1346
+msgid "Syndicate This Feed"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1351
+msgid "Update Default Settings"
+msgstr "Αποθήκευση βασικών ρυθμίσεων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1380
+msgid "New Feed URL"
+msgstr "RSS feed url νέας εξωτερικής πηγής:"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1381
+msgid "Syndicate"
+msgstr "Ρύθμιση"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1394
+msgid "Last update"
+msgstr "Τελευταία ενημέρωση"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1404
+msgid "edit"
+msgstr "επεξεργασία"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1409
+msgid "minutes ago"
+msgstr "λεπτά πριν"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1422
+msgid "Pull selected feeds now"
+msgstr "Άντληση άρθρων από τις επιλεγμένες πηγές"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1427
+msgid "Delete selected feeds and syndicated posts"
+msgstr "Διαγραφή επιλεγμένων πηγών και όσων άρθρων αντλήθηκαν από αυτές"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1428
+msgid "Delete selected feeds"
+msgstr "Διαγραφή Επιλεγμένων feeds"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1429
+msgid "Delete posts syndycated from selected feeds"
+msgstr "Διαγραφή άρθρων που λήφθηκαν  από τα επιλεγμένα feeds"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1441
+msgid "Alter default settings"
+msgstr "Τροποποίηση ρυθμίσεων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1606
+#, fuzzy
+msgid "General"
+msgstr "Γενικά"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1611
+msgid "Ορισμός νέας εξωτερικής πηγής"
+msgstr ""
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1616
+msgid "Άντληση άρθρων από υπάρχουσες εξωτερικές πηγές"
+msgstr ""
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1806
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/cybersyn.php:1867
+msgid "Source"
+msgstr "Πηγή"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:29
+#, fuzzy
+msgid "Y/m/d g:i:s A"
+msgstr "d/m/Y g:i:s a"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:45
+#, fuzzy
+msgid "View all"
+msgstr "Προβολή όλων"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:126
+#, fuzzy
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:137
+#, fuzzy
+msgid "Delete Permanently"
+msgstr "Διαγραφή οριστικά"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:139
+#, fuzzy
+msgid "Move to Trash"
+msgstr "Διαγραφή"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:151
+#, fuzzy
+msgid "Edit"
+msgstr "(επεξεργασία)"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:152
+#, fuzzy, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Επεξεργασία του «%s»"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:163
+#, fuzzy
+msgid "Publish"
+msgstr "Δημοσίευση:"
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:190
+#, php-format
+msgid "Item moved to the Trash."
+msgid_plural "%s items moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: C:\xampp\htdocs\blogsRun\wp-content\plugins\ls_cybersyn/functions.php:200
+#, fuzzy, php-format
+msgid "Post published. <a href=\"%s\">View post</a>"
+msgstr "Το άρθρο δημοσιεύτηκε. <a href=\"%s\">Δείτε το!</a>"
