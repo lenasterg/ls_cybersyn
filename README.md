@@ -1,4 +1,4 @@
 ls_cybersyn
 ===========
 
-cybersyn plugin "hacked" to pull feed only on demand
+cybersyn plugin "edited" to pull feed only on demand
