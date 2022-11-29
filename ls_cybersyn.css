@@ -1,6 +1,5 @@
-
 .welcome-panel-column-container-lssyn{
-    width:100%;
+	width:100%;
 /*border: 1px solid black;*/
 }
  .welcome-panel-column-lssyn{
@@ -17,16 +16,16 @@ float: right;
 
 }
 #wpfooter{
-    visibility: hidden;
+	visibility: hidden;
 }
 
 .fetched_table .fetched{
-     border:1px solid gray;
-    margin:20px;
+	 border:1px solid gray;
+	margin:20px;
 
-    padding: 20px;
+	padding: 20px;
    background: white;
-    
+
 }
 
 #cyber_container {
@@ -36,15 +35,15 @@ float: right;
   border-radius: 5px;
   clear: both;
   -webkit-border-radius: 5px;
-     -moz-border-radius: 5px;
-          border-radius: 5px;
-          
+	 -moz-border-radius: 5px;
+		  border-radius: 5px;
+
 }
 
 .centered { margin: 0 auto; }
 
 .box {
-    width: 45%;
+	width: 45%;
   margin: 10px;
   padding: 15px;
   background: whitesmoke;
@@ -52,9 +51,9 @@ float: right;
   line-height: 1.4em;
   float: left;
   -webkit-border-radius: 5px ;
-     -moz-border-radius: 5px;
-          border-radius: 5px;
-          border: 1px solid #DFDFDF;
+	 -moz-border-radius: 5px;
+		  border-radius: 5px;
+		  border: 1px solid #DFDFDF;
 }
 
 .box h2 {
@@ -62,5 +61,5 @@ float: right;
   font-weight: 200;
 }
 .box img {
-    padding: 5px
+	padding: 5px
 }
