@@ -1,6 +1,6 @@
 <?php
-/*
-  Copyright (c) 2005-2014 by CyberSEO (http://www.cyberseo.net). All Rights Reserved.
+/**
+ * Copyright (c) 2005-2014 by CyberSEO (http://www.cyberseo.net). All Rights Reserved.
  */
 
 if ( ! function_exists( 'get_option' ) || ! function_exists( 'add_filter' ) ) {
@@ -80,7 +80,7 @@ if ( ! empty( $text ) ) {
 	if ( ! function_exists( 'curl_init' ) && ! ini_get( 'allow_url_fopen' ) ) {
 		$problems .= "PHP variable <a href=\"http://php.net/manual/en/filesystem.configuration.php#ini.allow-url-fopen\" target=\"_blank\">allow_url_fopen</a> is disabled. You must enable it in order to make CyberSyn work properly.\n<br />";
 	}
-	if ( $problems != '' ) {
+	if ( '' != $problems  ) {
 		echo "<div id=\"message\" class=\"error\"><p>$problems</p></div>\n";
 	}
 	?>
